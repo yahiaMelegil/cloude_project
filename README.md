@@ -18,7 +18,7 @@ Run machine learning jobs
 Evaluate performance and scalability using Apache Spark
 
 The system is deployed on Google Cloud Platform (GCP) with an interactive web interface built using Streamlit, and uses Apache Spark / PySpark for distributed processing.
-
+```
 🗂 Project Structure
 📦 project-root
 ├── app.py
@@ -36,3 +36,4 @@ The system is deployed on Google Cloud Platform (GCP) with an interactive web in
 │   ├── uploads/
 │   └── results/
 └── .env (optional)
+```
